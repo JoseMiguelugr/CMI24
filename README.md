@@ -40,7 +40,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-https://github.com/JoseMiguelugr/JoseMiguelugr.github.io/blob/main/gato1_frame1.png?raw=true
+![girl](https://github.com/JoseMiguelugr/JoseMiguelugr.github.io/blob/main/gato1_frame1.png?raw=true)
 
 # 2. Memoria del proyecto 
 
