@@ -13,25 +13,25 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**   https://josemiguelugr.github.io/
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  José Miguel López Girón
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Eres  
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Historia interactiva con juego de gestión de recursos
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px fijo no reescalable
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Firefox, Bing, Chrome
 
 **Tamaño proyecto:** XXMB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : xx/xx/2024
+**Fecha** : 29/05/2024
 
 **Medios** (donde se tiene presencia relacionada):
 
