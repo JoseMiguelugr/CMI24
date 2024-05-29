@@ -11,7 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Sin Aire
 
-**Web:**   [https://    (url github.io)](https://josemiguelugr.github.io/Sinaire.html)
+**Web:**   https://josemiguelugr.github.io/
 
 **Autor:**  (Nombre apellidos)
 
