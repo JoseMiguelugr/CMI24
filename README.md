@@ -51,10 +51,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 COmenzamos la historia interactiva con la narrativa de un personaje. Situando al espectador dentro de un contexto. 
+
 ![](https://github.com/JoseMiguelugr/JoseMiguelugr.github.io/blob/main/Captura%20de%20pantalla%20(64).png?raw=true)
+
 La segunda parte es el menú.
+
 ![](https://github.com/JoseMiguelugr/JoseMiguelugr.github.io/blob/main/Captura%20de%20pantalla%20(65).png?raw=true)
+
 La tercera es el gameplay mismo, donde alimentamos al gato. Decidí hacerle un pequeño tutorial porque con todo imágenes es fácil perderse.
+
 ![](https://github.com/JoseMiguelugr/JoseMiguelugr.github.io/blob/main/Captura%20de%20pantalla%20(67).png?raw=true)
 
 ### 2.2. Esquema de navegación 
