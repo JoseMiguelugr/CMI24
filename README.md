@@ -25,7 +25,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px fijo no reescalable
 
-**Probado en:**   Firefox, Bing, Chrome
+**Probado en:**   Firefox, Bing, Chrome y en android. Pero este último funciona mejor si se pone en modo escritorio.
 
 **Tamaño proyecto:** XXMB 
 
@@ -50,7 +50,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
+![](https://github.com/JoseMiguelugr/JoseMiguelugr.github.io/blob/main/Captura%20de%20pantalla%20(64).png?raw=true)
 
+![](https://github.com/JoseMiguelugr/JoseMiguelugr.github.io/blob/main/Captura%20de%20pantalla%20(65).png?raw=true)
+
+![](https://github.com/JoseMiguelugr/JoseMiguelugr.github.io/blob/main/Captura%20de%20pantalla%20(67).png?raw=true)
 
 ### 2.2. Esquema de navegación 
 
@@ -87,8 +91,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
-
+Este juego está orientado a las personas que sienten nostalgia hacia los juegos flash. Y a cierto género que se centra en usar recursos y resolver problemas para avanzar en una narrativa.
 
 
 
@@ -107,7 +110,8 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Elementos que deberían ser atractivos visualmente como la aguja del medidor de oxígeno, no funcionan correctamente. Este parece ser un problema en la diferencia de frames entre el programa de origen y al ser ejecutado en navegador.
+Si no pausas el video en la galería al salir, el proyecto empieza a mandarte de una escena a otra
 
 
 
