@@ -58,7 +58,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
-
+![](https://github.com/JoseMiguelugr/JoseMiguelugr.github.io/blob/main/Diagrama%20sin%20t%C3%ADtulo.jpg?raw=true)
 
 
 
